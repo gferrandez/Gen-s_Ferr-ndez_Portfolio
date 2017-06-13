@@ -7,7 +7,7 @@ window.location.href="Contact.html";
 }
 
 function pag_Home(){ 
-window.location.href="Index.html"; 
+window.location.href="index.html"; 
 }
 
 
