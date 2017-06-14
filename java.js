@@ -14,37 +14,37 @@ window.location.href="index.html";
 function pag_Modeling(){ 
     setTimeout (function(){
 window.location.href="Modeling.html";
-}, 900);
+}, 800);
 }
 
 function pag_Ilumination(){
     setTimeout (function(){  
 window.location.href="Ilumination.html"; 
-}, 900);
+}, 800);
 }
 
 function pag_Ilustrator(){ 
     setTimeout (function(){
 window.location.href="Ilustrator.html"; 
-}, 900);
+}, 800);
 }
 
 function pag_3Danimation(){
     setTimeout (function(){
 window.location.href="3Danimation.html"; 
-}, 900);
+}, 800);
 }
 
 function pag_Texturing(){
     setTimeout (function(){
 window.location.href="Texturing.html"; 
-},900);
+},800);
 }
 
 function pag_Css(){ 
      setTimeout (function(){
 window.location.href="Css.html"; 
-}, 900);
+}, 800);
 }
 
 
